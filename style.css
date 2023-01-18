@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(30, 255, 173);
+}
+
+#Info_DA
+{
+    font-weight: bolder;
+}
+#v1
+{
+    border-color: brown;
+    border-width: 10px;
+    width: 50%;
+}
+
+#v2
+{
+    border-color: brown;
+    border-width: 10px;
+    width: 100%;
+}
+#ADVANTAGES
+{
+    font-weight: bolder;
+    color: rgb(0, 21, 255);
+    background-color: rgb(0, 255, 0);
+    width: 290px;
+    border-radius: 25px;
+}
+
+#DISADVANTAGES
+{
+    font-weight: bolder;
+    color: rgb(255, 136, 0);
+    background-color: brown;
+    width: 290px;
+    border-radius: 25px;
+}
